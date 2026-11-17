@@ -1,7 +1,7 @@
 ---
 
 ## **제목: AI의 미래와 지속가능발전**
-* Sustainable Development Goals
+#### Sustainable Development Goals
  
 ### **특강 목차 (정리본)**
 
