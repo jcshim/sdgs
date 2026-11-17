@@ -42,6 +42,8 @@
 
 * 산업혁명, 발견과 발명, 그리고 기술의 축적
 * 일상 속으로 들어온 인공지능
+* * [대한민국 세계 6위](https://github.com/user-attachments/assets/7e0de371-e60d-4e43-afcf-3dc27da82076)
+
 * [대한민국 세계 6위 ](<img width="1200" height="810" alt="image" src="https://github.com/user-attachments/assets/7e0de371-e60d-4e43-afcf-3dc27da82076" />)
 
 * 대한민국의 기술 경쟁력
