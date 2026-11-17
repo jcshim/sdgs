@@ -44,7 +44,7 @@
 * 일상 속으로 들어온 인공지능
 * [대한민국 세계 6위](https://github.com/user-attachments/assets/7e0de371-e60d-4e43-afcf-3dc27da82076)
 * 대한민국의 기술 경쟁력
-  * [D-RAM](https://github.com/user-attachments/assets/051a06c1-4e9a-4dc8-8f48-c1f285ef527c), HBM, AI 하드웨어: GPU · TPU · NPU 
+  * [D-RAM](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOI9nbBOogRQsgScA2H0ZEYZI-SF2W4eHNiDztW98ln2DRfDZljR6aIH_N&s=10), HBM, [OLED](https://github.com/user-attachments/assets/051a06c1-4e9a-4dc8-8f48-c1f285ef527c), AI 하드웨어: GPU · TPU · NPU 
 
 ---
 
